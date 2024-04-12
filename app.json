@@ -1,9 +1,9 @@
 
 {
 
-    "name": "MG",
+    "name": "einstein_amarjeet_pravite_bot",
 
-    "description": "A Modular telegram bot.",
+    "description": "@einstein_amarjeet_pravite_bot.",
 
     "repository": "https://github.com/Einsteinamarjeetk/Cw-repo",
     "buildpacks":[
