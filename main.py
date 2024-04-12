@@ -46,9 +46,9 @@ import re
 import requests
 bot = Client(
     "CW",
-    bot_token=os.environ.get("BOT_TOKEN"),
-    api_id=int(os.environ.get("API_ID")),
-    api_hash=os.environ.get("API_HASH")
+    bot_token=os.environ.get("6658768060:AAFKreFnvh9neTN70lt-zg8kTHD4fTmH3Iw"),
+    api_id=int(os.environ.get("9438917")),
+    api_hash=os.environ.get("b86192c6db595de8e8863b43648c55da")
 )
 
 logger = logging.getLogger()
@@ -90,7 +90,7 @@ async def start(bot, update):
                               "**NOW:-** "
                                        
                                        "Press **/login** to continue..\n\n"
-                                     "Bot made by **ACE**" )
+                                     "Bot made by **Einstein**" )
 
 ACCOUNT_ID = "6206459123001"
 BCOV_POLICY = "BCpkADawqM1474MvKwYlMRZNBPoqkJY-UWm7zE1U769d5r5kqTjG0v8L-THXuVZtdIQJpfMPB37L_VJQxTKeNeLO2Eac_yMywEgyV9GjFDQ2LTiT4FEiHhKAUvdbx9ku6fGnQKSMB8J5uIDd"
