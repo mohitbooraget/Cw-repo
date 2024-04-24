@@ -5,7 +5,7 @@
 
     "description": "@einstein_amarjeet_pravite_bot.",
 
-    "repository": "https://github.com/Einsteinamarjeetk/Cw-repo",
+    "repository": "https://github.com/mohitbooraget/Cw-repo",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
